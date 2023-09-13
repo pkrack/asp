@@ -1,0 +1,5 @@
+.session.vim
+.venv
+.vim-lsp-settings
+asp.egg-info
+tags
